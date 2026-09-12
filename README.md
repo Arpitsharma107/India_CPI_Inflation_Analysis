@@ -16,11 +16,12 @@ The project covers data transformation, missing-value treatment, category mappin
 | COVID comparison | **Health: ~+0.09 percentage points** higher average MoM inflation in the long pre/post comparison |
 | Crude-oil correlation | **Milk & Products: r ≈ -0.48**, the largest relationship by absolute correlation |
 
+> **Note:** The 2023 YoY figure is based only on data available through May 2023.
+
 The final Excel dashboard consolidates the major findings from the five analysis areas into a single view.
 
 ![India CPI Inflation Dashboard](assets/cpi_dashboard.png)
 
-> **Note:** The 2023 YoY figure is based only on data available through May 2023.
 
 ---
 
