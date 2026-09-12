@@ -179,7 +179,7 @@ rather than being assigned again to a broader bucket. This prevented an aggregat
 **Method:** The **Rural+Urban General Index** was compared with the corresponding month 12 months earlier:
 
 $$
-\text{YoY Inflation (\%)} =
+\text{YoY Inflation\%)} =
 \frac{\text{Current CPI} - \text{CPI 12 Months Earlier}}
 {\text{CPI 12 Months Earlier}}
 \times 100
@@ -304,12 +304,6 @@ $$
 Scatter plots with trendlines were also used in the workbook to inspect selected relationships visually.
 
 The coefficients were generally moderate or weak, indicating association rather than a single dominant relationship across CPI categories. **Correlation does not establish causation.**
-
----
-
-## Final Dashboard
-
-
 
 ---
 
