@@ -210,7 +210,7 @@ Monthly YoY rates were then averaged by calendar year.
 **Method:** Month-over-Month food inflation was analyzed for the 12 months ending May 2023:
 
 $$
-\text{MoM Inflation (\%)} =
+\text{MoM Inflation\%)} =
 \frac{\text{Current Index} - \text{Previous Month Index}}
 {\text{Previous Month Index}}
 \times 100
@@ -283,7 +283,7 @@ The pre-COVID food period contained unusually high food-price movement in 2019, 
 Oil prices and individual CPI categories were converted into Month-over-Month percentage changes. Excel’s **`CORREL`** function was then used to compare the monthly changes.
 
 $$
-\text{Oil MoM (\%)} =
+\text{Oil MoM\%)} =
 \frac{\text{Current Oil Price} - \text{Previous Oil Price}}
 {\text{Previous Oil Price}}
 \times 100
@@ -331,8 +331,6 @@ The coefficients were generally moderate or weak, indicating association rather 
 - **Correlation Analysis** — category-level comparison with imported crude-oil changes
 
 **Key functions:** `XLOOKUP`, `IF`, `IFS`, `ISBLANK`, `AVERAGE`, `AVERAGEIFS`, `EDATE`, `MAX`, `MIN`, `CORREL`
-
-> No DAX measures were used in the analysis documented here.
 
 ---
 
