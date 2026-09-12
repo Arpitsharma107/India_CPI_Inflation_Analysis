@@ -1,4 +1,4 @@
-# India CPI Inflation Analysis — Excel Case Study
+# India CPI Inflation Analysis 
 
 An end-to-end **Excel data analysis project** exploring India’s Consumer Price Index (CPI) from **January 2013 to May 2023** across Rural, Urban, and Rural+Urban sectors.
 
